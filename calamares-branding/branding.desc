@@ -189,7 +189,7 @@ images:
 # Using slides directly instead,and because the sliding time ends at 1s, adding the same slide 2 more times, increases the sliding time to 3s (approx)
 
 #slideshow
-slideshow: [ "cereus-slogan.png", "keep-update.png", "no-bloatware.png", "runit.png", "software.png", "void-based.png"]
+#slideshow: [ "cereus-slogan.png", "keep-update.png", "no-bloatware.png", "runit.png", "software.png", "void-based.png"]
 
 slideshow:  "show.qml"
 
