@@ -98,15 +98,4 @@ Presentation
             anchors.verticalCenterOffset: -20
         }
     }
-
-    Slide {
-        Image {
-            id: pic05
-            source: "cereus-logo-complete.png"
-            width: parent.width * 1.12; height: parent.height * 1.5
-            fillMode: Image.Stretch
-            anchors.centerIn: parent
-            anchors.verticalCenterOffset: -20
-        }
-    }
 }
