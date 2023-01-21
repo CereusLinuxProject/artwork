@@ -91,7 +91,7 @@ Presentation
     Slide {
         Image {
             id: pic04
-            source: "keep-update.png"
+            source: "keep-updated.png"
             width: parent.width * 1.12; height: parent.height * 1.5
             fillMode: Image.Stretch
             anchors.centerIn: parent

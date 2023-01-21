@@ -9,7 +9,6 @@
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="runit.svg"
-   inkscape:export-filename="/home/david/Imagenes/calamares-branding/calamares-png/runit.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,15 +26,15 @@
      inkscape:pagecheckerboard="1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.36141013"
-     inkscape:cx="286.37825"
-     inkscape:cy="596.27548"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:zoom="0.57302299"
+     inkscape:cx="650.93374"
+     inkscape:cy="606.43291"
+     inkscape:window-width="1920"
+     inkscape:window-height="989"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2">
     <rect
@@ -275,7 +274,7 @@
      id="layer1"
      sodipodi:insensitive="true">
     <rect
-       style="opacity:0.7;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#0a0a0a;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#0f0f0f;fill-opacity:1;fill-rule:evenodd;stroke:#0a0a0a;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect846"
        width="1624.0225"
        height="1240.0223"
@@ -373,27 +372,28 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Capa 3">
+     inkscape:label="Capa 3"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        id="text4273"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4275);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.974934;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="matrix(3.2582578,0,0,3.5352917,-95.207975,-1960.9408)"
+       style="font-style:normal;font-weight:normal;font-size:38.4999px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4275);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.974934;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(3.2582578,0,0,3.2899893,-94.390691,-1752.8587)"
        x="463.26172"
        y="0"><tspan
-         x="225.03125"
-         y="841.98266"
-         id="tspan4997"><tspan
-           style="text-align:center;text-anchor:middle;fill:#05b247;stroke:#ffffff"
-           id="tspan4993">Runit</tspan><tspan
-           style="font-weight:600;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle"
-           id="tspan4995">
+         x="231.33325"
+         y="840.98934"
+         id="tspan11314"><tspan
+           style="font-weight:bold;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#05b247;stroke:#ffffff"
+           id="tspan11310">Runit</tspan><tspan
+           style="font-weight:bold;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle"
+           id="tspan11312">
 </tspan></tspan><tspan
-         x="35.978516"
-         y="892.98681"
-         id="tspan5001"><tspan
-           style="font-weight:600;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle"
-           id="tspan4999"> a lightweight init system</tspan></tspan></text>
+         x="57.735916"
+         y="890.45229"
+         id="tspan11318"><tspan
+           style="font-weight:bold;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle"
+           id="tspan11316"> A lightweight init system</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text19299"

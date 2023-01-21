@@ -9,7 +9,6 @@
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="cereus-logo-complete.svg"
-   inkscape:export-filename="/home/david/Imagenes/calamares-branding/no-bloatware.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -26,15 +25,15 @@
      inkscape:pagecheckerboard="1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.41799165"
-     inkscape:cx="1215.3353"
-     inkscape:cy="441.39638"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:zoom="0.7250308"
+     inkscape:cx="627.55954"
+     inkscape:cy="157.92432"
+     inkscape:window-width="1920"
+     inkscape:window-height="989"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g1064" />
   <defs
      id="defs2">
     <rect
@@ -985,8 +984,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Capa 2"
-     sodipodi:insensitive="true">
+     inkscape:label="Capa 2">
     <g
        id="g1064"
        transform="translate(-231,-380)">
@@ -1184,13 +1182,13 @@
       <text
          xml:space="preserve"
          id="text34612"
-         style="font-style:normal;font-weight:normal;font-size:50.4497px;line-height:1.25;font-family:sans-serif;letter-spacing:1.11278px;white-space:pre;shape-inside:url(#rect34614);fill:#ffffff;fill-opacity:1;stroke:none"
-         transform="matrix(1.5580547,0,0,1.9352869,576.76727,-913.25822)"><tspan
+         style="font-style:normal;font-weight:normal;font-size:38.3924px;line-height:1.25;font-family:sans-serif;letter-spacing:1.11278px;white-space:pre;shape-inside:url(#rect34614);fill:#ffffff;fill-opacity:1;stroke:none"
+         transform="matrix(1.5580547,0,0,1.9352869,609.69421,-912.48534)"><tspan
            x="214.86914"
-           y="923.3577"
-           id="tspan1241"><tspan
-             style="font-style:italic;font-weight:600;font-stretch:condensed;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic Condensed'"
-             id="tspan1239">&quot;Do it functional&quot;</tspan></tspan></text>
+           y="912.75768"
+           id="tspan13072"><tspan
+             style="font-style:italic;font-weight:bold;font-family:Roboto;-inkscape-font-specification:'Roboto Bold Italic'"
+             id="tspan13070">Do it functional</tspan></tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -1198,7 +1196,7 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3539);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="2742.2129"
          y="1018.9961"
-         id="tspan1243">-</tspan></text>
+         id="tspan13074">-</tspan></text>
     <text
        xml:space="preserve"
        id="text29859"

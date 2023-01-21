@@ -9,7 +9,6 @@
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="no-bloatware.svg"
-   inkscape:export-filename="/home/david/Imagenes/calamares-branding/calamares-png/no-bloatware.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,10 +27,10 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.36141013"
-     inkscape:cx="601.80936"
-     inkscape:cy="607.34324"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:cx="578.29038"
+     inkscape:cy="593.50854"
+     inkscape:window-width="1920"
+     inkscape:window-height="989"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -275,7 +274,7 @@
      id="layer1"
      sodipodi:insensitive="true">
     <rect
-       style="opacity:0.7;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#0a0a0a;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#0f0f0f;fill-opacity:1;fill-rule:evenodd;stroke:#0a0a0a;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect846"
        width="1624.0225"
        height="1240.0223"
@@ -607,8 +606,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Capa 3"
-     sodipodi:insensitive="true">
+     inkscape:label="Capa 3">
     <text
        xml:space="preserve"
        id="text4273"
@@ -616,23 +614,23 @@
        transform="matrix(3.2585876,0,0,3.955091,-80.253642,-2374.6621)"
        x="224.02344"
        y="0"><tspan
-         x="144.96289"
-         y="841.98266"
-         id="tspan1180"><tspan
-           style="font-weight:600;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle"
-           id="tspan1174">No </tspan><tspan
-           style="font-style:italic;font-weight:600;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic'"
-           id="tspan1176">Bloatware</tspan><tspan
-           style="font-weight:600;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle"
-           id="tspan1178"> 
+         x="151.00781"
+         y="842.36871"
+         id="tspan6470"><tspan
+           style="font-weight:bold;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle"
+           id="tspan6464">No </tspan><tspan
+           style="font-weight:bold;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+           id="tspan6466">Bloatware</tspan><tspan
+           style="font-weight:bold;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle"
+           id="tspan6468"> 
 </tspan></tspan><tspan
-         x="60.509766"
-         y="892.98681"
-         id="tspan1186"><tspan
-           style="font-weight:600;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle"
-           id="tspan1182">Only </tspan><tspan
-           style="font-style:italic;font-weight:600;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic';fill:#05b427;stroke:#ffffff"
-           id="tspan1184">essential software</tspan></tspan></text>
+         x="65.949219"
+         y="893.75891"
+         id="tspan6476"><tspan
+           style="font-weight:bold;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle"
+           id="tspan6472">Only </tspan><tspan
+           style="font-weight:bold;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#05b427;stroke:#ffffff"
+           id="tspan6474">essential software</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text19299"
